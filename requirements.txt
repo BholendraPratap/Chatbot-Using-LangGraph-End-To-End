@@ -1,0 +1,10 @@
+streamlit
+langgraph
+groq
+dotenv
+langsmith
+langchain
+langchain-groq
+uuid
+langchain-core
+langchain-groq
