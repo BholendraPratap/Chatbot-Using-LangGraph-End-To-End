@@ -7,4 +7,4 @@ langchain
 langchain-groq
 uuid
 langchain-core
-langchain-groq
+langchain-groqlanggraph-checkpoint-sqlite
